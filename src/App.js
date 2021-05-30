@@ -35,19 +35,21 @@ class App extends React.Component {
             <span className="loader_text">"Loading..."</span>
           </div>
         ) : (
-          movies.map((movie) => {
-            return (
-              <Movie
-                key={movie.id}
-                id={movie.id}
-                year={movie.year}
-                title={movie.title}
-                summary={movie.summary}
-                poster={movie.medium_cover_image}
-                genres={movie.genres}
-              />
-            );
-          })
+          <div calssName="movies">
+            {movies.map((movie) => {
+              return (
+                <Movie
+                  key={movie.id}
+                  id={movie.id}
+                  year={movie.year}
+                  title={movie.title}
+                  summary={movie.summary}
+                  poster={movie.medium_cover_image}
+                  genres={movie.genres}
+                />
+              );
+            })}
+          </div>
         )}
       </section>
     );
