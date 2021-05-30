@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie_app_tori/static/css/main.0ec91b99.chunk.css",
+    "main.js": "/movie_app_tori/static/js/main.b13ef966.chunk.js",
+    "main.js.map": "/movie_app_tori/static/js/main.b13ef966.chunk.js.map",
+    "runtime-main.js": "/movie_app_tori/static/js/runtime-main.79201cb6.js",
+    "runtime-main.js.map": "/movie_app_tori/static/js/runtime-main.79201cb6.js.map",
+    "static/js/2.32d8df5b.chunk.js": "/movie_app_tori/static/js/2.32d8df5b.chunk.js",
+    "static/js/2.32d8df5b.chunk.js.map": "/movie_app_tori/static/js/2.32d8df5b.chunk.js.map",
+    "static/js/3.9cc9c435.chunk.js": "/movie_app_tori/static/js/3.9cc9c435.chunk.js",
+    "static/js/3.9cc9c435.chunk.js.map": "/movie_app_tori/static/js/3.9cc9c435.chunk.js.map",
+    "index.html": "/movie_app_tori/index.html",
+    "static/css/main.0ec91b99.chunk.css.map": "/movie_app_tori/static/css/main.0ec91b99.chunk.css.map",
+    "static/js/2.32d8df5b.chunk.js.LICENSE.txt": "/movie_app_tori/static/js/2.32d8df5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79201cb6.js",
+    "static/js/2.32d8df5b.chunk.js",
+    "static/css/main.0ec91b99.chunk.css",
+    "static/js/main.b13ef966.chunk.js"
+  ]
+}
